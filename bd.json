@@ -225,10 +225,18 @@
       "pdCategory": "toys",
       "pdSubCategory": "toys",
       "pdImg": "assets/productimg/toy-4.webp"
+    },
+      {
+      "pdId": 8584,
+      "pdName": "Aapaga Action Figure Super Heros Toy Set",
+      "pdDesc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque placeat asperiores sint molestiae expedita facilis, illum voluptas optio amet cumque veniam itaque commodi vel incidunt sed deserunt, ea unde laudantium.",
+      "pdPrice": 500,
+      "pdCategory": "toys",
+      "pdSubCategory": "toys",
+      "pdImg": "assets/productimg/toy-4.webp"
     }
   ],
   "SubCategories": [
-    
       { "id": 1, "categories": "appliances", "subcategories": "mobile" },
       { "id": 2, "categories": "appliances", "subcategories": "smart tv" },
       { "id": 3, "categories": "appliances", "subcategories": "air cooler" },
